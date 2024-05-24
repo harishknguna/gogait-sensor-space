@@ -1,2 +1,2 @@
 # gogait
-EEG sensor and source space analyses
+EEG sensor space analyses
